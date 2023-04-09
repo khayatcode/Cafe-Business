@@ -101,7 +101,7 @@ public class CafeUtil {
         }
     }
 
-    void printPriceChart(String product, double price, int maxQuantity){
+    public void printPriceChart(String product, double price, int maxQuantity){
         // int[] productList;
         // productList = new int[maxQuantity];
         System.out.println(product);
